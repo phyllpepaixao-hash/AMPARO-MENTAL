@@ -1,0 +1,6 @@
+{
+  "name": "Amparo - Não passe por tudo sozinho",
+  "description": "Apoio emocional acolhedor, grounded e responsável, com foco no momento presente. Não passe por tudo sozinho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
